@@ -1,0 +1,130 @@
+{
+  "company": {
+    "name": "NEW COVENANT ACADEMY",
+    "address": "3119 W 6th St",
+    "cityStateZip": "Los Angeles, CA 90020"
+  },
+  "employee": {
+    "name": "ETHAN COLE",
+    "id": "E-198745",
+    "department": "Teacher - Middle School",
+    "address": "1425 S Genesee Ave",
+    "cityStateZip": "Los Angeles, CA 90019"
+  },
+  "pay": {
+    "payDate": "11/28/2025",
+    "payPeriod": "11/01/2025 - 11/15/2025",
+    "checkNumber": "45982",
+    "adviceNumber": "ADV-2025-1122"
+  },
+  "tax": {
+    "fedStatus": "S",
+    "fedAllow": "01",
+    "stateStatus": "S",
+    "stateAllow": "01"
+  },
+  "earnings": [
+    {
+      "name": "Certificated Salary",
+      "rate": "48.50",
+      "hours": "80.00",
+      "current": "3,880.00",
+      "ytd": "85,360.00"
+    },
+    {
+      "name": "Stipend - Technology",
+      "rate": "Flat",
+      "hours": "--",
+      "current": "150.00",
+      "ytd": "3,300.00"
+    }
+  ],
+  "deductions": [
+    {
+      "name": "Federal Tax",
+      "type": "Fed Withholding",
+      "current": "483.60",
+      "ytd": "10,639.20"
+    },
+    {
+      "name": "State Tax",
+      "type": "CA Withholding",
+      "current": "185.38",
+      "ytd": "4,078.36"
+    },
+    {
+      "name": "FICA - SS",
+      "type": "Social Security",
+      "current": "249.86",
+      "ytd": "5,496.92"
+    },
+    {
+      "name": "FICA - Med",
+      "type": "Medicare",
+      "current": "58.44",
+      "ytd": "1,285.68"
+    },
+    {
+      "name": "CA SDI",
+      "type": "Disability Ins",
+      "current": "36.27",
+      "ytd": "797.94"
+    },
+    {
+      "name": "403(b) Plan",
+      "type": "Retirement",
+      "current": "200.00",
+      "ytd": "4,400.00"
+    },
+    {
+      "name": "Health Ins",
+      "type": "Medical HMO",
+      "current": "85.00",
+      "ytd": "1,870.00"
+    }
+  ],
+  "bank": {
+    "bankName": "Chase Bank",
+    "accountNumber": "XXXXXX8842",
+    "description": "Direct Deposit"
+  },
+  "leaveBalances": {
+    "sickLeave": {
+      "beginning": "72.00",
+      "accrued": "1.00",
+      "used": "0.00"
+    },
+    "personalNecessity": {
+      "beginning": "3.00",
+      "accrued": "0.00",
+      "used": "0.00"
+    }
+  },
+  "employerContributions": [
+    {
+      "name": "ER Health",
+      "type": "Medical Insurance",
+      "amount": "485.00",
+      "ytd": "10,670.00"
+    },
+    {
+      "name": "ER Dental",
+      "type": "Dental Insurance",
+      "amount": "45.00",
+      "ytd": "990.00"
+    },
+    {
+      "name": "ER Vision",
+      "type": "Vision Insurance",
+      "amount": "12.00",
+      "ytd": "264.00"
+    },
+    {
+      "name": "ER Retirement",
+      "type": "403(b) Match",
+      "amount": "200.00",
+      "ytd": "4,400.00"
+    }
+  ],
+  "logo": ""
+}
